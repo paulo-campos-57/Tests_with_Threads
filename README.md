@@ -1,2 +1,2 @@
 # Tests_with_Threads
-Program using threads
+Program using threads in Linux Ubuntu
